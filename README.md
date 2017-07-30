@@ -1,2 +1,2 @@
 # Java8
-My Java 8 Musings
+My Java 8 Musings.
